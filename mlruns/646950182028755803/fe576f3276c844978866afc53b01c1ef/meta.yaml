@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/fe576f3276c844978866afc53b01c1ef/artifacts
+end_time: 1741468300545
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: fe576f3276c844978866afc53b01c1ef
+run_name: powerful-grouse-376
+run_uuid: fe576f3276c844978866afc53b01c1ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741468300508
+status: 3
+tags: []
+user_id: darkaengl

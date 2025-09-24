@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/500678005428466798/767dcbd7f29c4399b7424fec4db7f0a3/artifacts
+end_time: 1741465152245
+entry_point_name: ''
+experiment_id: '500678005428466798'
+lifecycle_stage: active
+run_id: 767dcbd7f29c4399b7424fec4db7f0a3
+run_name: bald-doe-756
+run_uuid: 767dcbd7f29c4399b7424fec4db7f0a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741465152224
+status: 4
+tags: []
+user_id: darkaengl

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/500678005428466798/05de867c32de4265a67d38fcc54e173f/artifacts
+end_time: 1741465275689
+entry_point_name: ''
+experiment_id: '500678005428466798'
+lifecycle_stage: active
+run_id: 05de867c32de4265a67d38fcc54e173f
+run_name: suave-worm-849
+run_uuid: 05de867c32de4265a67d38fcc54e173f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741465275659
+status: 4
+tags: []
+user_id: darkaengl

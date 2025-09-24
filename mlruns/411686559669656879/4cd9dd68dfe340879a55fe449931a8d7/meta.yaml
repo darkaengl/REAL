@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/411686559669656879/4cd9dd68dfe340879a55fe449931a8d7/artifacts
+end_time: 1741471927219
+entry_point_name: ''
+experiment_id: '411686559669656879'
+lifecycle_stage: active
+run_id: 4cd9dd68dfe340879a55fe449931a8d7
+run_name: thoughtful-finch-117
+run_uuid: 4cd9dd68dfe340879a55fe449931a8d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741471927115
+status: 3
+tags: []
+user_id: darkaengl

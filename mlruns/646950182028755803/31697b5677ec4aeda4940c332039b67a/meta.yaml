@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/31697b5677ec4aeda4940c332039b67a/artifacts
+end_time: 1741468297146
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 31697b5677ec4aeda4940c332039b67a
+run_name: crawling-lynx-483
+run_uuid: 31697b5677ec4aeda4940c332039b67a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741468297106
+status: 3
+tags: []
+user_id: darkaengl

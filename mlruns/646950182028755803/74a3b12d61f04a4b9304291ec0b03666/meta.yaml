@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/74a3b12d61f04a4b9304291ec0b03666/artifacts
+end_time: 1741466206661
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 74a3b12d61f04a4b9304291ec0b03666
+run_name: indecisive-dove-793
+run_uuid: 74a3b12d61f04a4b9304291ec0b03666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741466206439
+status: 3
+tags: []
+user_id: darkaengl

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/31671d33581146a3bab5cb5591ea340f/artifacts
+end_time: 1741468264999
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 31671d33581146a3bab5cb5591ea340f
+run_name: clean-dog-489
+run_uuid: 31671d33581146a3bab5cb5591ea340f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741468264953
+status: 3
+tags: []
+user_id: darkaengl

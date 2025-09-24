@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/5612993ca49b4314bbf1d8d48bc1265b/artifacts
+end_time: 1741466619075
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 5612993ca49b4314bbf1d8d48bc1265b
+run_name: bemused-vole-202
+run_uuid: 5612993ca49b4314bbf1d8d48bc1265b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741466618952
+status: 3
+tags: []
+user_id: darkaengl

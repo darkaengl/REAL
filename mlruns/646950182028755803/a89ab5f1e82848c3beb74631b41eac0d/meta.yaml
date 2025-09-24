@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/a89ab5f1e82848c3beb74631b41eac0d/artifacts
+end_time: 1741467848975
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: a89ab5f1e82848c3beb74631b41eac0d
+run_name: burly-fowl-992
+run_uuid: a89ab5f1e82848c3beb74631b41eac0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741467848725
+status: 3
+tags: []
+user_id: darkaengl

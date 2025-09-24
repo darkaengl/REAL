@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/8edc1b04f4b844afa1c4632f2804cdb0/artifacts
+end_time: 1741472811454
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 8edc1b04f4b844afa1c4632f2804cdb0
+run_name: silent-crane-433
+run_uuid: 8edc1b04f4b844afa1c4632f2804cdb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741472811432
+status: 3
+tags: []
+user_id: darkaengl

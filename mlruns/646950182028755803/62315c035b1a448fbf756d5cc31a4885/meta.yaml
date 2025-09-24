@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/62315c035b1a448fbf756d5cc31a4885/artifacts
+end_time: 1741468303934
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 62315c035b1a448fbf756d5cc31a4885
+run_name: trusting-midge-799
+run_uuid: 62315c035b1a448fbf756d5cc31a4885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741468303908
+status: 3
+tags: []
+user_id: darkaengl

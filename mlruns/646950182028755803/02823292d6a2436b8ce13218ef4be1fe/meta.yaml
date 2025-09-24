@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/02823292d6a2436b8ce13218ef4be1fe/artifacts
+end_time: 1741468439690
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 02823292d6a2436b8ce13218ef4be1fe
+run_name: zealous-tern-738
+run_uuid: 02823292d6a2436b8ce13218ef4be1fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741468439579
+status: 3
+tags: []
+user_id: darkaengl

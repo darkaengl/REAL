@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/baafe513288f43259eb0705161aecd53/artifacts
+end_time: 1741464796658
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: baafe513288f43259eb0705161aecd53
+run_name: puzzled-ox-714
+run_uuid: baafe513288f43259eb0705161aecd53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741464796620
+status: 4
+tags: []
+user_id: darkaengl

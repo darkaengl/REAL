@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/a87807d3404e449bbe8aa9201db57094/artifacts
+end_time: 1741465681475
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: a87807d3404e449bbe8aa9201db57094
+run_name: adaptable-loon-857
+run_uuid: a87807d3404e449bbe8aa9201db57094
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741465681364
+status: 4
+tags: []
+user_id: darkaengl

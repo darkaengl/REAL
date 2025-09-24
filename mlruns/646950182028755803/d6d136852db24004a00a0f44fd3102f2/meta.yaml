@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/d6d136852db24004a00a0f44fd3102f2/artifacts
+end_time: 1741466657046
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: d6d136852db24004a00a0f44fd3102f2
+run_name: gregarious-ram-696
+run_uuid: d6d136852db24004a00a0f44fd3102f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741466657008
+status: 3
+tags: []
+user_id: darkaengl

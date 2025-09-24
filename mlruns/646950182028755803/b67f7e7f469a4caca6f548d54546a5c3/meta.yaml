@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/b67f7e7f469a4caca6f548d54546a5c3/artifacts
+end_time: 1741468244808
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: b67f7e7f469a4caca6f548d54546a5c3
+run_name: grandiose-wasp-952
+run_uuid: b67f7e7f469a4caca6f548d54546a5c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741468244762
+status: 3
+tags: []
+user_id: darkaengl

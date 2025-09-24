@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/943e3db4e9004cb7b53ba0ee8a7162b0/artifacts
+end_time: 1741466699703
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 943e3db4e9004cb7b53ba0ee8a7162b0
+run_name: sincere-wasp-585
+run_uuid: 943e3db4e9004cb7b53ba0ee8a7162b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741466699581
+status: 3
+tags: []
+user_id: darkaengl

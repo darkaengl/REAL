@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/fdf07dc9256f40d797700fbaa052012e/artifacts
+end_time: 1741466169704
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: fdf07dc9256f40d797700fbaa052012e
+run_name: righteous-snail-39
+run_uuid: fdf07dc9256f40d797700fbaa052012e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741466169666
+status: 3
+tags: []
+user_id: darkaengl

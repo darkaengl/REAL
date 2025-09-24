@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/d3594231cbd2423fb53ccbd56c5a086d/artifacts
+end_time: 1741468266936
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: d3594231cbd2423fb53ccbd56c5a086d
+run_name: upbeat-wasp-479
+run_uuid: d3594231cbd2423fb53ccbd56c5a086d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741468266838
+status: 3
+tags: []
+user_id: darkaengl

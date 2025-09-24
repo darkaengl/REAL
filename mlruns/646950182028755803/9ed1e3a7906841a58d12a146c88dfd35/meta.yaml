@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/9ed1e3a7906841a58d12a146c88dfd35/artifacts
+end_time: 1741468244876
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 9ed1e3a7906841a58d12a146c88dfd35
+run_name: puzzled-koi-254
+run_uuid: 9ed1e3a7906841a58d12a146c88dfd35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741468244759
+status: 3
+tags: []
+user_id: darkaengl

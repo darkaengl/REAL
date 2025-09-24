@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/42514623a1894f1aaa8559c6e5e74ebc/artifacts
+end_time: 1741466205435
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 42514623a1894f1aaa8559c6e5e74ebc
+run_name: grandiose-carp-557
+run_uuid: 42514623a1894f1aaa8559c6e5e74ebc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741466205390
+status: 3
+tags: []
+user_id: darkaengl

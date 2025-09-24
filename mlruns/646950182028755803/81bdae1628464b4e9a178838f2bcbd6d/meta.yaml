@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/81bdae1628464b4e9a178838f2bcbd6d/artifacts
+end_time: 1741466627701
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 81bdae1628464b4e9a178838f2bcbd6d
+run_name: adaptable-donkey-599
+run_uuid: 81bdae1628464b4e9a178838f2bcbd6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741466627580
+status: 3
+tags: []
+user_id: darkaengl

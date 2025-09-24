@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/1d9c44e80b424d12aa4d7f33090e62b3/artifacts
+end_time: 1741471944636
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 1d9c44e80b424d12aa4d7f33090e62b3
+run_name: upbeat-perch-259
+run_uuid: 1d9c44e80b424d12aa4d7f33090e62b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741471944538
+status: 3
+tags: []
+user_id: darkaengl

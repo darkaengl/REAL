@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/c2a4679f3c4b4db387765b96b586ff8e/artifacts
+end_time: 1741468287161
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: c2a4679f3c4b4db387765b96b586ff8e
+run_name: legendary-goat-554
+run_uuid: c2a4679f3c4b4db387765b96b586ff8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741468287033
+status: 3
+tags: []
+user_id: darkaengl

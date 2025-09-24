@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/1228e14b60a34fe4a049a8f301cec7c9/artifacts
+end_time: 1741471813125
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 1228e14b60a34fe4a049a8f301cec7c9
+run_name: aged-bug-319
+run_uuid: 1228e14b60a34fe4a049a8f301cec7c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741471813112
+status: 3
+tags: []
+user_id: darkaengl

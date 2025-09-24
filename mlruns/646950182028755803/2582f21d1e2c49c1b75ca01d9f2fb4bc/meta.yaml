@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/2582f21d1e2c49c1b75ca01d9f2fb4bc/artifacts
+end_time: 1741473292168
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 2582f21d1e2c49c1b75ca01d9f2fb4bc
+run_name: agreeable-crow-969
+run_uuid: 2582f21d1e2c49c1b75ca01d9f2fb4bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741473292146
+status: 3
+tags: []
+user_id: darkaengl

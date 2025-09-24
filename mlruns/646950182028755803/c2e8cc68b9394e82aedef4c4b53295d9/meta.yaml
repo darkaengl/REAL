@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/c2e8cc68b9394e82aedef4c4b53295d9/artifacts
+end_time: 1741468297146
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: c2e8cc68b9394e82aedef4c4b53295d9
+run_name: enchanting-vole-841
+run_uuid: c2e8cc68b9394e82aedef4c4b53295d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741468297107
+status: 3
+tags: []
+user_id: darkaengl

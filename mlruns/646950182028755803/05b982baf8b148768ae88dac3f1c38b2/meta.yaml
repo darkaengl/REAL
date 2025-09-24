@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/05b982baf8b148768ae88dac3f1c38b2/artifacts
+end_time: 1741468249165
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 05b982baf8b148768ae88dac3f1c38b2
+run_name: classy-moose-807
+run_uuid: 05b982baf8b148768ae88dac3f1c38b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741468249125
+status: 3
+tags: []
+user_id: darkaengl

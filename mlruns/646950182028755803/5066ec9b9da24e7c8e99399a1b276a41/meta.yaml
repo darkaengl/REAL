@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/5066ec9b9da24e7c8e99399a1b276a41/artifacts
+end_time: 1741467841397
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 5066ec9b9da24e7c8e99399a1b276a41
+run_name: incongruous-trout-82
+run_uuid: 5066ec9b9da24e7c8e99399a1b276a41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741467841344
+status: 3
+tags: []
+user_id: darkaengl

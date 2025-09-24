@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/f6a02c071aad493b8603956866bc2620/artifacts
+end_time: 1741473268031
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: f6a02c071aad493b8603956866bc2620
+run_name: peaceful-newt-725
+run_uuid: f6a02c071aad493b8603956866bc2620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741473268005
+status: 3
+tags: []
+user_id: darkaengl

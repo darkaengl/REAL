@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/afd2e5d3ed7f4d19af324c20df485c84/artifacts
+end_time: 1741466206546
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: afd2e5d3ed7f4d19af324c20df485c84
+run_name: redolent-penguin-749
+run_uuid: afd2e5d3ed7f4d19af324c20df485c84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741466206448
+status: 3
+tags: []
+user_id: darkaengl

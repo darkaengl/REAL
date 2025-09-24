@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/6cf1568463624fffba462fe5bf0aa5a5/artifacts
+end_time: 1741466699627
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 6cf1568463624fffba462fe5bf0aa5a5
+run_name: rebellious-cow-991
+run_uuid: 6cf1568463624fffba462fe5bf0aa5a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741466699582
+status: 3
+tags: []
+user_id: darkaengl

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/2abf59242135438cbde097223cd592cf/artifacts
+end_time: 1741466176523
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 2abf59242135438cbde097223cd592cf
+run_name: mysterious-fly-347
+run_uuid: 2abf59242135438cbde097223cd592cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741466176421
+status: 3
+tags: []
+user_id: darkaengl

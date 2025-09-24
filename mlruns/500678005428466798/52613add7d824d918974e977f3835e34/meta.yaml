@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/500678005428466798/52613add7d824d918974e977f3835e34/artifacts
+end_time: 1741464806245
+entry_point_name: ''
+experiment_id: '500678005428466798'
+lifecycle_stage: active
+run_id: 52613add7d824d918974e977f3835e34
+run_name: chill-mouse-749
+run_uuid: 52613add7d824d918974e977f3835e34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741464806220
+status: 4
+tags: []
+user_id: darkaengl

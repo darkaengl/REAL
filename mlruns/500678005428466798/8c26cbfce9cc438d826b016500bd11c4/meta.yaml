@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/500678005428466798/8c26cbfce9cc438d826b016500bd11c4/artifacts
+end_time: 1741464806251
+entry_point_name: ''
+experiment_id: '500678005428466798'
+lifecycle_stage: active
+run_id: 8c26cbfce9cc438d826b016500bd11c4
+run_name: industrious-dove-157
+run_uuid: 8c26cbfce9cc438d826b016500bd11c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741464806222
+status: 4
+tags: []
+user_id: darkaengl

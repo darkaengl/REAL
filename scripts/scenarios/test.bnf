@@ -1,0 +1,13 @@
+<rule>                      ::= ALWAYS { Detect[ Pedestrian @ <pedestrian_safety_dist> ] & Detect[ Pet @ <pet_safety_dist> ] and ApplyBrake[<brake_mode>] } in a scenario where a pedestrian of <pedestrian_ethnicity> ethnicity and <pedestrian_gender>  gender of age <pedestrian_age> <pedestrian_behavior> on the sidewalk <pedestrian_behavior> with a <pet_color> <pet_breed> in the <terrain> during <lighting_condition> on a <weather> day
+<pedestrian_ethnicity>      ::= Asian | European | African_American
+<pedestrian_gender>         ::= Male | Female | Others
+<pedestrian_age>            ::= below_10 | 10_20 | 20_40 | above_40
+<pedestrian_behaviour>      ::= Walking | Jogging | Running | Crossing the street
+<pet_color>                 ::= Black | White | Grey | Brown
+<pet_breed>                 ::= Dog | Cat | Possum | Rabbit
+<terrain>                   ::= City | Country | Town | Off_road
+<lighting_condition>        ::= Morning | Noon | Evening | Twilight
+<weather>                   ::= Sunny | Windy | Cloudy | Snowy
+<pedestrian_safety_dist>    ::= [8,5,2]
+<pet_safety_dist>           ::= [6,4,2]
+<brake_mode>                ::= simple | proportional | network_cutoff | network_proportinal

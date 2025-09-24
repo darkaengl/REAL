@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/590e24f7b18946799ec58af6312690f4/artifacts
+end_time: 1741473316341
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 590e24f7b18946799ec58af6312690f4
+run_name: funny-sheep-28
+run_uuid: 590e24f7b18946799ec58af6312690f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741473316320
+status: 3
+tags: []
+user_id: darkaengl

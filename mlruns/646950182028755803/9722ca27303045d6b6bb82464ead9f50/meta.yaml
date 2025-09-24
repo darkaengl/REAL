@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/9722ca27303045d6b6bb82464ead9f50/artifacts
+end_time: 1741467856616
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 9722ca27303045d6b6bb82464ead9f50
+run_name: unequaled-flea-508
+run_uuid: 9722ca27303045d6b6bb82464ead9f50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741467856585
+status: 3
+tags: []
+user_id: darkaengl

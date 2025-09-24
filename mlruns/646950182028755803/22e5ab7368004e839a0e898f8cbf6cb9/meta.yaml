@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/22e5ab7368004e839a0e898f8cbf6cb9/artifacts
+end_time: 1741472737618
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 22e5ab7368004e839a0e898f8cbf6cb9
+run_name: welcoming-grouse-138
+run_uuid: 22e5ab7368004e839a0e898f8cbf6cb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741472737599
+status: 3
+tags: []
+user_id: darkaengl

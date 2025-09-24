@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/92a31007eb3a4ec79d59508b304f97c0/artifacts
+end_time: 1741465751249
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 92a31007eb3a4ec79d59508b304f97c0
+run_name: gifted-cat-661
+run_uuid: 92a31007eb3a4ec79d59508b304f97c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741465751208
+status: 3
+tags: []
+user_id: darkaengl

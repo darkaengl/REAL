@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/014e9ea6e7214904b2424f79055fcb6a/artifacts
+end_time: 1741472890463
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 014e9ea6e7214904b2424f79055fcb6a
+run_name: fun-fish-366
+run_uuid: 014e9ea6e7214904b2424f79055fcb6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741472890437
+status: 3
+tags: []
+user_id: darkaengl

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/c9b8a16fac844208972b37a8964bcde3/artifacts
+end_time: 1741472838384
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: c9b8a16fac844208972b37a8964bcde3
+run_name: unique-grouse-112
+run_uuid: c9b8a16fac844208972b37a8964bcde3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741472838358
+status: 3
+tags: []
+user_id: darkaengl

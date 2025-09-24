@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/411686559669656879/0f5b58fc31bd443aa329793dad720a96/artifacts
+end_time: 1741472142356
+entry_point_name: ''
+experiment_id: '411686559669656879'
+lifecycle_stage: active
+run_id: 0f5b58fc31bd443aa329793dad720a96
+run_name: legendary-ox-10
+run_uuid: 0f5b58fc31bd443aa329793dad720a96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741472142268
+status: 4
+tags: []
+user_id: darkaengl

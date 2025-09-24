@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/b5aa82a778674db0a9adf08b1d5f9e7e/artifacts
+end_time: 1741468314873
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: b5aa82a778674db0a9adf08b1d5f9e7e
+run_name: ambitious-whale-536
+run_uuid: b5aa82a778674db0a9adf08b1d5f9e7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741468314835
+status: 3
+tags: []
+user_id: darkaengl

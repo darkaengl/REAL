@@ -1,0 +1,9 @@
+<rule>                  ::= The system should detect {pedestrian : <pedestrian>}, on a day with cloudiness {cloudiness : <cloudiness>}, precipitation {precipitation : <precipitation>}, sun at an angle {sun_azimuth_angle : <sun_azimuth_angle>} and altitude {sun_altitude_angle : <sun_altitude_angle>}, fog density {fog_density : <fog_density>}, trying to cross the road at an angle {pedestrian_angle : <pedestrian_angle>} 
+<cloudiness>            ::= <digit> | 1<digit> | 2<digit> | 3<digit> | 4<digit> | 5<digit> | 6<digit> | 7<digit> | 8<digit> | 9<digit> | 100
+<precipitation>         ::= 0.<digit><digit>
+<sun_azimuth_angle>     ::= <digit> | 1<digit> | 2<digit> | 3<digit> | 4<digit> | 5<digit> | 6<digit> | 7<digit> | 8<digit> | 90
+<pedestrian_angle>      ::= <digit> | 1<digit> | 2<digit> | 3<digit> | 4<digit> | 5<digit> | 6<digit> | 7<digit> | 8<digit> | 9<digit>  | 10<digit> | 11<digit> | 12<digit> | 13<digit> | 14<digit> | 15<digit> | 16<digit> | 17<digit> | 180
+<sun_altitude_angle>    ::= <digit> | 1<digit> | 2<digit> | 3<digit> | 4<digit> | 5<digit> | 6<digit> | 7<digit> | 8<digit> | 90
+<fog_density>           ::= 0.<digit><digit>
+<digit>                 ::= 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+<pedestrian>            ::= walker.pedestrian.0001 | walker.pedestrian.0002 | walker.pedestrian.0003 | walker.pedestrian.0004 | walker.pedestrian.0005 | walker.pedestrian.0006 | walker.pedestrian.0007 | walker.pedestrian.0008 | walker.pedestrian.0009 | walker.pedestrian.0010 | walker.pedestrian.0011 | walker.pedestrian.0012 | walker.pedestrian.0013 | walker.pedestrian.0014

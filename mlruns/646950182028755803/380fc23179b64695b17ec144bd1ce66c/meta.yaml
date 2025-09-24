@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/380fc23179b64695b17ec144bd1ce66c/artifacts
+end_time: 1741472761924
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 380fc23179b64695b17ec144bd1ce66c
+run_name: respected-shark-498
+run_uuid: 380fc23179b64695b17ec144bd1ce66c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741472761905
+status: 3
+tags: []
+user_id: darkaengl

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/9aadee7aadd9487f839db21061b52207/artifacts
+end_time: 1741471846500
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 9aadee7aadd9487f839db21061b52207
+run_name: skittish-zebra-504
+run_uuid: 9aadee7aadd9487f839db21061b52207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741471846476
+status: 3
+tags: []
+user_id: darkaengl

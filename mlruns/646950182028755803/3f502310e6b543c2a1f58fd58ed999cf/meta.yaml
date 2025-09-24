@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/3f502310e6b543c2a1f58fd58ed999cf/artifacts
+end_time: 1741465681404
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 3f502310e6b543c2a1f58fd58ed999cf
+run_name: flawless-flea-28
+run_uuid: 3f502310e6b543c2a1f58fd58ed999cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741465681363
+status: 4
+tags: []
+user_id: darkaengl

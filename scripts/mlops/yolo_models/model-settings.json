@@ -1,0 +1,4 @@
+{
+    "name" : "yolo_models",
+    "implementation": "yolo_model.MyYOLOModel"
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/500678005428466798/a676d13e540c44c990a0a7c3c3c03c88/artifacts
+end_time: 1741465394463
+entry_point_name: ''
+experiment_id: '500678005428466798'
+lifecycle_stage: active
+run_id: a676d13e540c44c990a0a7c3c3c03c88
+run_name: classy-calf-980
+run_uuid: a676d13e540c44c990a0a7c3c3c03c88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741465394449
+status: 4
+tags: []
+user_id: darkaengl

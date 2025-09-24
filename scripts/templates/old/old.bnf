@@ -1,0 +1,6 @@
+<rule>          ::= A { pedestrian : <pedestrian> } wearing a {dress : <dress>} dress trying to cross road from { direction : <direction> } at { distance : <distance> } distance on a day with fog density {fog_density : <fog_density>}
+<direction>     ::= LR | RL
+<distance>      ::= Short | Long
+<fog_density>   ::= 0 | 50
+<pedestrian>    ::= Adult | Child
+<dress>  ::= Light | Dark

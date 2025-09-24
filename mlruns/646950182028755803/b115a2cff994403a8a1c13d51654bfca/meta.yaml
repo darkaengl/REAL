@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/b115a2cff994403a8a1c13d51654bfca/artifacts
+end_time: 1741465746293
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: b115a2cff994403a8a1c13d51654bfca
+run_name: youthful-duck-331
+run_uuid: b115a2cff994403a8a1c13d51654bfca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741465746263
+status: 3
+tags: []
+user_id: darkaengl

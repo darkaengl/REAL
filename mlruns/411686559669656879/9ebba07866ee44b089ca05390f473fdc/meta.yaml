@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/411686559669656879/9ebba07866ee44b089ca05390f473fdc/artifacts
+end_time: 1741471876453
+entry_point_name: ''
+experiment_id: '411686559669656879'
+lifecycle_stage: active
+run_id: 9ebba07866ee44b089ca05390f473fdc
+run_name: vaunted-kite-509
+run_uuid: 9ebba07866ee44b089ca05390f473fdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741471852686
+status: 4
+tags: []
+user_id: darkaengl

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/411686559669656879/32df394fa3424e6797cff491f4638b9c/artifacts
+end_time: 1741472391421
+entry_point_name: ''
+experiment_id: '411686559669656879'
+lifecycle_stage: active
+run_id: 32df394fa3424e6797cff491f4638b9c
+run_name: languid-dolphin-315
+run_uuid: 32df394fa3424e6797cff491f4638b9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741472391396
+status: 4
+tags: []
+user_id: darkaengl

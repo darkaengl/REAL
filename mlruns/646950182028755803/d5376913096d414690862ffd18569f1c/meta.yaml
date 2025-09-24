@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/d5376913096d414690862ffd18569f1c/artifacts
+end_time: 1741466169776
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: d5376913096d414690862ffd18569f1c
+run_name: exultant-ray-616
+run_uuid: d5376913096d414690862ffd18569f1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741466169669
+status: 3
+tags: []
+user_id: darkaengl

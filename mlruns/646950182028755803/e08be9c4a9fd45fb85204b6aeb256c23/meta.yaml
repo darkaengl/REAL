@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/e08be9c4a9fd45fb85204b6aeb256c23/artifacts
+end_time: 1741466639394
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: e08be9c4a9fd45fb85204b6aeb256c23
+run_name: blushing-sponge-380
+run_uuid: e08be9c4a9fd45fb85204b6aeb256c23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741466639347
+status: 3
+tags: []
+user_id: darkaengl

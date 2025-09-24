@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/c7a81262efcc4f67bc7f915aaab90a6f/artifacts
+end_time: 1741466647124
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: c7a81262efcc4f67bc7f915aaab90a6f
+run_name: efficient-dove-403
+run_uuid: c7a81262efcc4f67bc7f915aaab90a6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741466647087
+status: 3
+tags: []
+user_id: darkaengl

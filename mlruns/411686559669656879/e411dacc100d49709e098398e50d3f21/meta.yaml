@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/411686559669656879/e411dacc100d49709e098398e50d3f21/artifacts
+end_time: 1741472391424
+entry_point_name: ''
+experiment_id: '411686559669656879'
+lifecycle_stage: active
+run_id: e411dacc100d49709e098398e50d3f21
+run_name: chill-snail-9
+run_uuid: e411dacc100d49709e098398e50d3f21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741472391396
+status: 3
+tags: []
+user_id: darkaengl

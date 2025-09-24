@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/5ec286aebad647e28ea1c002b35c065d/artifacts
+end_time: 1741466200386
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 5ec286aebad647e28ea1c002b35c065d
+run_name: wistful-sheep-692
+run_uuid: 5ec286aebad647e28ea1c002b35c065d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741466200340
+status: 3
+tags: []
+user_id: darkaengl

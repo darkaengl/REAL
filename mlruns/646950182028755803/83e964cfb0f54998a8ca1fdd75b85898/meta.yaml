@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/83e964cfb0f54998a8ca1fdd75b85898/artifacts
+end_time: 1741465407606
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 83e964cfb0f54998a8ca1fdd75b85898
+run_name: omniscient-smelt-248
+run_uuid: 83e964cfb0f54998a8ca1fdd75b85898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741465407583
+status: 4
+tags: []
+user_id: darkaengl

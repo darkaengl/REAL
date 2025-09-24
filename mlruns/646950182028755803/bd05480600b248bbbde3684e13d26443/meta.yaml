@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/bd05480600b248bbbde3684e13d26443/artifacts
+end_time: 1741468252958
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: bd05480600b248bbbde3684e13d26443
+run_name: ambitious-bear-157
+run_uuid: bd05480600b248bbbde3684e13d26443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741468252900
+status: 3
+tags: []
+user_id: darkaengl

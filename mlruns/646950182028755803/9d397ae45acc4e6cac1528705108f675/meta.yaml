@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/9d397ae45acc4e6cac1528705108f675/artifacts
+end_time: 1741465723392
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 9d397ae45acc4e6cac1528705108f675
+run_name: vaunted-panda-118
+run_uuid: 9d397ae45acc4e6cac1528705108f675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741465723268
+status: 3
+tags: []
+user_id: darkaengl

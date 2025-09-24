@@ -1,0 +1,13 @@
+MAINTAIN speed BY
+    ACHIEVE optimal_speed USING sensor
+    AND
+    AVOID collisions BY
+        MAINTAIN distance USING radar
+
+||
+
+MAINTAIN svnhnhb BY
+    ACHIEVE shdgv USING sensor
+    AND
+    AVOID collisions BY
+        MAINTAIN distance USING radar

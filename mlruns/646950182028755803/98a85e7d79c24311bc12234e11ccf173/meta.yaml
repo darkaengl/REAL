@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/98a85e7d79c24311bc12234e11ccf173/artifacts
+end_time: 1741466200464
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 98a85e7d79c24311bc12234e11ccf173
+run_name: upbeat-finch-651
+run_uuid: 98a85e7d79c24311bc12234e11ccf173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741466200340
+status: 3
+tags: []
+user_id: darkaengl

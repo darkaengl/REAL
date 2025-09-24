@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/77e7ba6f454c4ea397b18fae7021a11a/artifacts
+end_time: 1741466652296
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 77e7ba6f454c4ea397b18fae7021a11a
+run_name: efficient-shrike-852
+run_uuid: 77e7ba6f454c4ea397b18fae7021a11a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741466652250
+status: 3
+tags: []
+user_id: darkaengl

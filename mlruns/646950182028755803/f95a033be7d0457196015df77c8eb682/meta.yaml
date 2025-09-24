@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/f95a033be7d0457196015df77c8eb682/artifacts
+end_time: 1741465751255
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: f95a033be7d0457196015df77c8eb682
+run_name: inquisitive-yak-526
+run_uuid: f95a033be7d0457196015df77c8eb682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741465751209
+status: 3
+tags: []
+user_id: darkaengl

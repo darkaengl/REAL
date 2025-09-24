@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/f56dcb43605b4a3391209827c858b835/artifacts
+end_time: 1741472353741
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: f56dcb43605b4a3391209827c858b835
+run_name: gregarious-frog-461
+run_uuid: f56dcb43605b4a3391209827c858b835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741472353711
+status: 4
+tags: []
+user_id: darkaengl

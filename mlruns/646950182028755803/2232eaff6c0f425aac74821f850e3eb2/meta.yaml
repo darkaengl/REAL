@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/2232eaff6c0f425aac74821f850e3eb2/artifacts
+end_time: 1741465407610
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 2232eaff6c0f425aac74821f850e3eb2
+run_name: amusing-pig-364
+run_uuid: 2232eaff6c0f425aac74821f850e3eb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741465407579
+status: 4
+tags: []
+user_id: darkaengl

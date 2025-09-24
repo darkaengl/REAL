@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/d9f47f8b65ef42a4b8f693805051ddeb/artifacts
+end_time: 1741472150528
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: d9f47f8b65ef42a4b8f693805051ddeb
+run_name: wise-owl-715
+run_uuid: d9f47f8b65ef42a4b8f693805051ddeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741472150492
+status: 4
+tags: []
+user_id: darkaengl

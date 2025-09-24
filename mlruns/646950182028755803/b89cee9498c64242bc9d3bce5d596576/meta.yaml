@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/b89cee9498c64242bc9d3bce5d596576/artifacts
+end_time: 1741466193674
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: b89cee9498c64242bc9d3bce5d596576
+run_name: stately-rat-391
+run_uuid: b89cee9498c64242bc9d3bce5d596576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741466193631
+status: 3
+tags: []
+user_id: darkaengl

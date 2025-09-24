@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/90277d65ef7e4e0aa4c76b022d93e1e0/artifacts
+end_time: 1741468439617
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 90277d65ef7e4e0aa4c76b022d93e1e0
+run_name: hilarious-chimp-764
+run_uuid: 90277d65ef7e4e0aa4c76b022d93e1e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741468439577
+status: 3
+tags: []
+user_id: darkaengl

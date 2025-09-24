@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/500678005428466798/ac9963945ce048c7b5b99ee8de162b6b/artifacts
+end_time: 1741465275768
+entry_point_name: ''
+experiment_id: '500678005428466798'
+lifecycle_stage: active
+run_id: ac9963945ce048c7b5b99ee8de162b6b
+run_name: efficient-rat-146
+run_uuid: ac9963945ce048c7b5b99ee8de162b6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741465275667
+status: 4
+tags: []
+user_id: darkaengl

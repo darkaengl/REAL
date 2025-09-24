@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/34b44d75718e4db0832ace45053fb8da/artifacts
+end_time: 1741471944560
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 34b44d75718e4db0832ace45053fb8da
+run_name: dashing-rat-806
+run_uuid: 34b44d75718e4db0832ace45053fb8da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741471944532
+status: 4
+tags: []
+user_id: darkaengl

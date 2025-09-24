@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/500678005428466798/2f061951b63a4b39b52903014cfad324/artifacts
+end_time: 1741465262856
+entry_point_name: ''
+experiment_id: '500678005428466798'
+lifecycle_stage: active
+run_id: 2f061951b63a4b39b52903014cfad324
+run_name: calm-fish-353
+run_uuid: 2f061951b63a4b39b52903014cfad324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741465262824
+status: 4
+tags: []
+user_id: darkaengl

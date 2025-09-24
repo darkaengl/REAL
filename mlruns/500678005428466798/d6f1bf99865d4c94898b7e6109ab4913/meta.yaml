@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/500678005428466798/d6f1bf99865d4c94898b7e6109ab4913/artifacts
+end_time: 1741465123409
+entry_point_name: ''
+experiment_id: '500678005428466798'
+lifecycle_stage: active
+run_id: d6f1bf99865d4c94898b7e6109ab4913
+run_name: skittish-bee-880
+run_uuid: d6f1bf99865d4c94898b7e6109ab4913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741465123309
+status: 4
+tags: []
+user_id: darkaengl

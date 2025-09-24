@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/500678005428466798/8091294fa70942fe8329cf04ebe33096/artifacts
+end_time: 1741465149742
+entry_point_name: ''
+experiment_id: '500678005428466798'
+lifecycle_stage: active
+run_id: 8091294fa70942fe8329cf04ebe33096
+run_name: languid-finch-812
+run_uuid: 8091294fa70942fe8329cf04ebe33096
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741465149718
+status: 4
+tags: []
+user_id: darkaengl

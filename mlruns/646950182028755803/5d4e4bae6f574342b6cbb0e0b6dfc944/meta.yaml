@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/5d4e4bae6f574342b6cbb0e0b6dfc944/artifacts
+end_time: 1741467841397
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 5d4e4bae6f574342b6cbb0e0b6dfc944
+run_name: marvelous-fish-189
+run_uuid: 5d4e4bae6f574342b6cbb0e0b6dfc944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741467841349
+status: 3
+tags: []
+user_id: darkaengl

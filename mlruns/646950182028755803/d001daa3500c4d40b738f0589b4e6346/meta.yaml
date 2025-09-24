@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/d001daa3500c4d40b738f0589b4e6346/artifacts
+end_time: 1741468467979
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: d001daa3500c4d40b738f0589b4e6346
+run_name: blushing-cod-99
+run_uuid: d001daa3500c4d40b738f0589b4e6346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741468467857
+status: 3
+tags: []
+user_id: darkaengl

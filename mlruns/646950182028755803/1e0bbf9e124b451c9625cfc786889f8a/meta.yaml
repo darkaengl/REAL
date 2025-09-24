@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/1e0bbf9e124b451c9625cfc786889f8a/artifacts
+end_time: 1741466639472
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 1e0bbf9e124b451c9625cfc786889f8a
+run_name: legendary-ram-192
+run_uuid: 1e0bbf9e124b451c9625cfc786889f8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741466639350
+status: 3
+tags: []
+user_id: darkaengl

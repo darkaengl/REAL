@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/d93ed258e2c24a3bb427706575cde0e7/artifacts
+end_time: 1741468239717
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: d93ed258e2c24a3bb427706575cde0e7
+run_name: adaptable-cow-843
+run_uuid: d93ed258e2c24a3bb427706575cde0e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741468239614
+status: 3
+tags: []
+user_id: darkaengl

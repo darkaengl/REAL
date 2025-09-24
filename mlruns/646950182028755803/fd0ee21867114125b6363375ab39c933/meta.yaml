@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/fd0ee21867114125b6363375ab39c933/artifacts
+end_time: 1741468265077
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: fd0ee21867114125b6363375ab39c933
+run_name: treasured-hawk-973
+run_uuid: fd0ee21867114125b6363375ab39c933
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741468264954
+status: 3
+tags: []
+user_id: darkaengl

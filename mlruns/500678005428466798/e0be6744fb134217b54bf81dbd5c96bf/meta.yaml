@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/500678005428466798/e0be6744fb134217b54bf81dbd5c96bf/artifacts
+end_time: 1741464918697
+entry_point_name: ''
+experiment_id: '500678005428466798'
+lifecycle_stage: active
+run_id: e0be6744fb134217b54bf81dbd5c96bf
+run_name: chill-asp-725
+run_uuid: e0be6744fb134217b54bf81dbd5c96bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741464918662
+status: 4
+tags: []
+user_id: darkaengl

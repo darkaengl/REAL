@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/224dca78699e46099949e53f1207d8a7/artifacts
+end_time: 1741466176445
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 224dca78699e46099949e53f1207d8a7
+run_name: melodic-shrimp-965
+run_uuid: 224dca78699e46099949e53f1207d8a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741466176422
+status: 3
+tags: []
+user_id: darkaengl

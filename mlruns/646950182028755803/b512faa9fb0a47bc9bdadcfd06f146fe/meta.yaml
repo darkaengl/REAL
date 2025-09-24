@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/b512faa9fb0a47bc9bdadcfd06f146fe/artifacts
+end_time: 1741472353794
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: b512faa9fb0a47bc9bdadcfd06f146fe
+run_name: valuable-toad-876
+run_uuid: b512faa9fb0a47bc9bdadcfd06f146fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741472353707
+status: 3
+tags: []
+user_id: darkaengl

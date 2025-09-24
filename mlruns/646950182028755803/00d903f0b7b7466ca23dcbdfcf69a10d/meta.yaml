@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/646950182028755803/00d903f0b7b7466ca23dcbdfcf69a10d/artifacts
+end_time: 1741466652368
+entry_point_name: ''
+experiment_id: '646950182028755803'
+lifecycle_stage: active
+run_id: 00d903f0b7b7466ca23dcbdfcf69a10d
+run_name: blushing-croc-522
+run_uuid: 00d903f0b7b7466ca23dcbdfcf69a10d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741466652251
+status: 3
+tags: []
+user_id: darkaengl

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darkaengl/Project/REAL/mlruns/500678005428466798/e2c540b7b3954f74857a1dcdc69d12bd/artifacts
+end_time: 1741465123331
+entry_point_name: ''
+experiment_id: '500678005428466798'
+lifecycle_stage: active
+run_id: e2c540b7b3954f74857a1dcdc69d12bd
+run_name: gentle-frog-502
+run_uuid: e2c540b7b3954f74857a1dcdc69d12bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741465123310
+status: 4
+tags: []
+user_id: darkaengl

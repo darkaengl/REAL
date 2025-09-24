@@ -1,0 +1,7 @@
+{
+    "name": "yolov5m",
+    "implementation": "mlserver_mlflow.MLflowRuntime",
+    "parameters": {
+        "uri": "mlflow-artifacts:/4/6f216ba0f0ee488293908b509976cb47/artifacts/yolov5m"
+    }
+}
