@@ -1,0 +1,9 @@
+[submodule "VerifAI"]
+	path = VerifAI
+	url = https://github.com/BerkeleyLearnVerify/VerifAI
+[submodule "scenario_runner"]
+	path = scenario_runner
+	url = https://github.com/carla-simulator/scenario_runner.git
+[submodule "grape"]
+	path = grape
+	url = https://github.com/bdsul/grape.git
