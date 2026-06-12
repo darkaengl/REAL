@@ -1,4 +1,4 @@
-# 🚗 REAL - Requirements Engineering for mAchines tha Learn (and Fail)
+# 🚗 REAL - Requirements Engineering for mAchines that Learn (and Fail)
 
 [![Python](https://img.shields.io/badge/Python-84.4%25-blue)](https://www.python.org/)
 [![Scenic](https://img.shields.io/badge/Scenic-5.8%25-green)](https://scenic-lang.readthedocs.io/)
