@@ -1,4 +1,4 @@
-[# 🚗 REAL - Requirements Engineering for Adaptive Learning
+# 🚗 REAL - Requirements Engineering for mAchines tha Learn (and Fail)
 
 [![Python](https://img.shields.io/badge/Python-84.4%25-blue)](https://www.python.org/)
 [![Scenic](https://img.shields.io/badge/Scenic-5.8%25-green)](https://scenic-lang.readthedocs.io/)
@@ -9,7 +9,7 @@
 
 ## 🌟 Overview
 
-REAL (Requirements Engineering for Adaptive Learning) is a cutting-edge research platform that bridges the gap between natural language requirements and executable test scenarios for autonomous systems. By leveraging grammatical evolution, domain-specific languages (DSL), and simulation environments, REAL automatically generates and validates test cases for complex automotive scenarios.
+REAL is a requirements engineering platform for adaptive learning that bridges the gap between natural language requirements and executable test scenarios for autonomous systems. By leveraging grammatical evolution, domain-specific languages (DSL), and simulation environments, REAL automatically generates and validates test cases for complex automotive scenarios to improve their requirements specification.
 
 ### 🎯 Key Capabilities
 
@@ -27,11 +27,13 @@ REAL (Requirements Engineering for Adaptive Learning) is a cutting-edge research
 │   Requirements  │    │   DSL Parser    │    │  Test Generator │
 │   (Natural Lang)│───▶│   (Grammar)     │───▶│   (Evolutionary)│
 └─────────────────┘    └─────────────────┘    └─────────────────┘
-                                                       │
-┌─────────────────┐    ┌─────────────────┐           │
-│   Validation    │◀───│   CARLA Sim     │◀──────────┘
-│   (Fitness)     │    │   (Scenarios)   │
-└─────────────────┘    └─────────────────┘
+        ▲                                              │
+        │                                              ▼
+┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
+│ Requirement     │◀───│   Validation    │◀───│   CARLA Sim     │
+│ Refinement      │    │   (Fitness)     │    │   (Scenarios)   │
+│ (Analyst)       │    └─────────────────┘    └─────────────────┘
+└─────────────────┘
 ```
 
 ## 🚀 Quick Start
@@ -47,7 +49,7 @@ REAL (Requirements Engineering for Adaptive Learning) is a cutting-edge research
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/darkaengl/REAL.git
+   git clone https://github.com/DoubleBlinded1/REAL.git
    cd REAL
    ```
 
@@ -205,17 +207,7 @@ black .
 isort .
 ```
 
-## 📚 Research Publications
 
-If you use REAL in your research, please cite:
-```bibtex
-@software{real2024,
-  title={REAL: Requirements Engineering for Adaptive Learning},
-  author={[Your Name]},
-  year={2024},
-  url={https://github.com/darkaengl/REAL}
-}
-```
 
 ## 🔗 Related Projects
 
@@ -238,8 +230,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**[Documentation](docs/) • [Examples](examples/) • [Issues](https://github.com/darkaengl/REAL/issues) • [Discussions](https://github.com/darkaengl/REAL/discussions)**
 
-Made with ❤️ for the autonomous systems research community
+Made with ❤️ for the Requirements Engineering research community
 
-</div>](https://github.com/amelBennaceur/REAL/)
+</div>
