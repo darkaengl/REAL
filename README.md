@@ -1,4 +1,4 @@
-# 🚗 REAL - Requirements Engineering for Adaptive Learning
+[# 🚗 REAL - Requirements Engineering for Adaptive Learning
 
 [![Python](https://img.shields.io/badge/Python-84.4%25-blue)](https://www.python.org/)
 [![Scenic](https://img.shields.io/badge/Scenic-5.8%25-green)](https://scenic-lang.readthedocs.io/)
@@ -242,4 +242,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Made with ❤️ for the autonomous systems research community
 
-</div>
+</div>](https://github.com/amelBennaceur/REAL/)
